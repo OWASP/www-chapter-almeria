@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Jesús Marín Garcia](mailto://jesus.garcia@owasp.org)
+* [JesÃºs MarÃ­n Garcia](mailto:jesus.garcia@owasp.org)
